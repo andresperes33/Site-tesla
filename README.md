@@ -19,9 +19,9 @@ A página contém informações sobre três modelos de carros da Tesla: Model Y,
 - `scripts.js` - Arquivo de scripts JavaScript.
 - `img/` - Pasta contendo as imagens e vídeos utilizados na página.
 
-![Descrição da imagem](img/foto-projeto-tesla-1)
+![Descrição da imagem](img/foto-projeto-testa-1)
 
-![Descrição da imagem](img/foto-projeto-tesla-2)
+![Descrição da imagem](img/foto-projeto-testa-2)
 
-![Descrição da imagem](img/foto-projeto-tesla-3)
+![Descrição da imagem](img/foto-projeto-testa-3)
 
