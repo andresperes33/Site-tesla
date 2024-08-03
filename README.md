@@ -19,10 +19,9 @@ A página contém informações sobre três modelos de carros da Tesla: Model Y,
 - `scripts.js` - Arquivo de scripts JavaScript.
 - `img/` - Pasta contendo as imagens e vídeos utilizados na página.
 
-## 📦 Instalação
+![Descrição da imagem](img/foto-projeto-tesla-1)
 
-Para rodar este projeto localmente, siga as etapas abaixo:
+![Descrição da imagem](img/foto-projeto-tesla-2)
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/tesla-site.git
+![Descrição da imagem](img/foto-projeto-tesla-3)
+
